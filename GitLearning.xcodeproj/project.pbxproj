@@ -15,6 +15,7 @@
 		0D4AA6A81E792B58005C77CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D4AA6A61E792B58005C77CF /* LaunchScreen.storyboard */; };
 		0D4AA6B31E792B59005C77CF /* GitLearningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AA6B21E792B59005C77CF /* GitLearningTests.swift */; };
 		0D4AA6BE1E792B59005C77CF /* GitLearningUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AA6BD1E792B59005C77CF /* GitLearningUITests.swift */; };
+		0D4AA6CC1E794D15005C77CF /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AA6CB1E794D15005C77CF /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0D4AA6B91E792B59005C77CF /* GitLearningUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitLearningUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D4AA6BD1E792B59005C77CF /* GitLearningUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLearningUITests.swift; sourceTree = "<group>"; };
 		0D4AA6BF1E792B59005C77CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D4AA6CB1E794D15005C77CF /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				0D4AA69A1E792B58005C77CF /* AppDelegate.swift */,
 				0D4AA69C1E792B58005C77CF /* ViewController.swift */,
+				0D4AA6CB1E794D15005C77CF /* MapViewController.swift */,
 				0D4AA69E1E792B58005C77CF /* Main.storyboard */,
 				0D4AA6A41E792B58005C77CF /* Assets.xcassets */,
 				0D4AA6A61E792B58005C77CF /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				0D4AA6A31E792B58005C77CF /* GitLearning.xcdatamodeld in Sources */,
 				0D4AA69D1E792B58005C77CF /* ViewController.swift in Sources */,
 				0D4AA69B1E792B58005C77CF /* AppDelegate.swift in Sources */,
+				0D4AA6CC1E794D15005C77CF /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
